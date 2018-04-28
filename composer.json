@@ -1,11 +1,12 @@
 {
-    "name": "facebook/php-ads-sdk",
-    "description": "PHP SDK for Facebook ads",
+    "name": "facebook/php-business-sdk",
+    "description": "PHP SDK for Facebook business",
     "type": "library",
     "license": "Facebook Platform",
     "keywords": [
       "facebook",
       "ads",
+      "business",
       "sdk"
     ],
     "homepage": "https://developers.facebook.com/",
